@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MARSS"]
-	path = MARSS
-	url = https://github.com/atsa-es/marss
-	shallow = true
-	registered = true
