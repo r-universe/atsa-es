@@ -1,10 +1,35 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/atsa-es/atsa-es.r-universe.dev
 	shallow = true
 	branch = HEAD
-[submodule "MARSS"]
-	path = MARSS
-	url = https://github.com/atsa-es/marss
+[submodule "atsalibrary"]
+	path = atsalibrary
+	url = https://github.com/atsa-es/atsalibrary
+	shallow = true
+	registered = true
+[submodule "atsar"]
+	path = atsar
+	url = https://github.com/atsa-es/atsar
+	shallow = true
+	registered = true
+[submodule "sdmTMB"]
+	path = sdmTMB
+	url = https://github.com/pbs-assess/sdmTMB
+	shallow = true
+	registered = true
+[submodule "varlasso"]
+	path = varlasso
+	url = https://github.com/atsa-es/varlasso
+	shallow = true
+	registered = true
+[submodule "mvdlm"]
+	path = mvdlm
+	url = https://github.com/atsa-es/mvdlm
+	shallow = true
+	registered = true
+[submodule "tvvarss"]
+	path = tvvarss
+	url = https://github.com/atsa-es/tvvarss
 	shallow = true
 	registered = true
