@@ -28,3 +28,13 @@
 	url = https://github.com/atsa-es/tvvarss
 	shallow = true
 	registered = true
+[submodule "marssTMB"]
+	path = marssTMB
+	url = https://github.com/atsa-es/marssTMB
+	shallow = true
+	registered = true
+[submodule "MARSS"]
+	path = MARSS
+	url = https://github.com/atsa-es/MARSS
+	shallow = true
+	registered = true
