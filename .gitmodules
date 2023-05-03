@@ -13,11 +13,6 @@
 	url = https://github.com/atsa-es/atsar
 	shallow = true
 	registered = true
-[submodule "sdmTMB"]
-	path = sdmTMB
-	url = https://github.com/pbs-assess/sdmTMB
-	shallow = true
-	registered = true
 [submodule "varlasso"]
 	path = varlasso
 	url = https://github.com/atsa-es/varlasso
