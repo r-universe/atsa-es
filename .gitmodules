@@ -38,3 +38,8 @@
 	url = https://github.com/atsa-es/MARSS
 	shallow = true
 	registered = true
+[submodule "bayesdfa"]
+	path = bayesdfa
+	url = https://fate-ewi.github.io/bayesdfa
+	shallow = true
+	registered = true
