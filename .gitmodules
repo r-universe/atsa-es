@@ -40,6 +40,6 @@
 	registered = true
 [submodule "bayesdfa"]
 	path = bayesdfa
-	url = https://fate-ewi.github.io/bayesdfa
+	url = https://github.com/fate-ewi/bayesdfa
 	shallow = true
 	registered = true
