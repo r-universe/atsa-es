@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/atsa-es/atsa-es.r-universe.dev
-	shallow = true
 	branch = HEAD
-[submodule "atsalibrary"]
-	path = atsalibrary
-	url = https://github.com/atsa-es/atsalibrary
-	shallow = true
-	registered = true
-[submodule "atsar"]
-	path = atsar
-	url = https://github.com/atsa-es/atsar
-	shallow = true
-	registered = true
-[submodule "varlasso"]
-	path = varlasso
-	url = https://github.com/atsa-es/varlasso
-	shallow = true
-	registered = true
-[submodule "mvdlm"]
-	path = mvdlm
-	url = https://github.com/atsa-es/mvdlm
-	shallow = true
-	registered = true
-[submodule "tvvarss"]
-	path = tvvarss
-	url = https://github.com/atsa-es/tvvarss
-	shallow = true
-	registered = true
-[submodule "marssTMB"]
-	path = marssTMB
-	url = https://github.com/atsa-es/marssTMB
-	shallow = true
-	registered = true
 [submodule "MARSS"]
 	path = MARSS
 	url = https://github.com/atsa-es/MARSS
-	shallow = true
-	registered = true
+[submodule "atsalibrary"]
+	path = atsalibrary
+	url = https://github.com/atsa-es/atsalibrary
+[submodule "atsar"]
+	path = atsar
+	url = https://github.com/atsa-es/atsar
 [submodule "bayesdfa"]
 	path = bayesdfa
 	url = https://github.com/fate-ewi/bayesdfa
-	shallow = true
-	registered = true
+[submodule "marssTMB"]
+	path = marssTMB
+	url = https://github.com/atsa-es/marssTMB
+[submodule "mvdlm"]
+	path = mvdlm
+	url = https://github.com/atsa-es/mvdlm
+[submodule "tvvarss"]
+	path = tvvarss
+	url = https://github.com/atsa-es/tvvarss
+[submodule "varlasso"]
+	path = varlasso
+	url = https://github.com/atsa-es/varlasso
