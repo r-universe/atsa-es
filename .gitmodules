@@ -17,6 +17,9 @@
 [submodule "marssTMB"]
 	path = marssTMB
 	url = https://github.com/atsa-es/marssTMB
+[submodule "maxnet"]
+	path = maxnet
+	url = https://github.com/BigelowLab/maxnet
 [submodule "mvdlm"]
 	path = mvdlm
 	url = https://github.com/atsa-es/mvdlm
