@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/atsa-es/atsa-es.r-universe.dev
 	branch = HEAD
+[submodule "MAR1"]
+	path = MAR1
+	url = https://github.com/atsa-es/MAR1
 [submodule "MARSS"]
 	path = MARSS
 	url = https://github.com/atsa-es/MARSS
